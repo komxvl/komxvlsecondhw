@@ -1,3 +1,7 @@
+div{
+    border:1px dashed;
+    width:350px;
+}
 .sub-index{
     color:blue;
 }
