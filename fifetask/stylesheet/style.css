@@ -1,0 +1,18 @@
+body{
+    background: #d6d7be;
+}
+h1{
+    font-family: sans-serif;
+}
+h3{
+    color:#8d592a;
+}
+a{
+    color:green;
+}
+a:visited{
+    color:green;
+}
+a:active{
+    color:yellow
+}
