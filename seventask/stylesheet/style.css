@@ -2,6 +2,9 @@ div{
     border:dashed;
     width:350px;
 }
+.function-name{
+	font-size:20px;
+}
 .sub-index{
     color:blue;
 }
