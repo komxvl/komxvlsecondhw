@@ -1,0 +1,5 @@
+<h2>Название работы</h2>
+домашнее задание 2, задание 1
+<h4>ScreenShot</h4>
+![screenshot of sample](https://github.com/komxvl/DZ_2_1/blob/master/screen/screen_f_w.png)
+<p>Some test</p>
